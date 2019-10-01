@@ -8,7 +8,6 @@ import time
 import os
 import random
 pygame.font.init()
-os.chdir(r"C:\Users\Guereck\Desktop\Projets finis\IA\Flappy Bird")
 
 WIN_WIDTH = 500 #Largeur de la fenêtre
 WIN_HEIGHT = 800 #Longueur de la fenêtre
